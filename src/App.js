@@ -1,6 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
+import logo from "./logo.svg";
+import "./App.css";
+import Navy from "./Components/Navy/Navy";
+import Footer from "./Components/Footer/Footer";
+import Websites from "./Components/Websites/Websites";
 function App() {
   return (
     <div className="App">
