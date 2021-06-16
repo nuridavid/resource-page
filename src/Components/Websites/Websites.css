@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#websites__section {
+  height: 100rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 2rem;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+.websites__section-card-container {
+  display: flex;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.websites__section-card {
+  color: white;
+  height: 10rem;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  margin-right: 5rem;
+}/*# sourceMappingURL=Websites.css.map */
